@@ -1,0 +1,12 @@
+title: Frederick Yu's Blog
+description: This is laokexi's blog.
+author: Frederick Yu
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
+
+url: "https://www.fredyu.net" # the base hostname & protocol for your site, e.g. http://example.com
+excerpt_separator: <!--more-->
+show_excerpts: true
+
+markdown: kramdown
