@@ -14,10 +14,7 @@ Modify `_layouts/default.html`
 
 ## How to preview your changes
 
-1. Open `terminal`
-2. `cd` to `~/fredyu`
-3. run `bundle exec jekyll serve`
-4. use your broweser to open `127.0.0.1:4000`
+Click `preview.command`
 
 
 
@@ -27,11 +24,17 @@ Add a file to `_post` folder. Remember the naming conventions, file extensions a
 
 ## How to push your changes to github
 
-Execute the following command in the right order:
-
-1. Open `terminal`
-2. `cd` to `~/fredyu`
-3. 
+Click `publish.command`
 
 
+
+## Study markdown
+
+<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
+
+
+
+## Markdown is a great way to take notes
+
+$$\int_{-\infty}^{+\infty} \frac{1}{x^2} dx$$
 
