@@ -3,7 +3,7 @@ title: About Me
 layout: post
 ---
 
-My name is Qi "Frederick" Yu, I am a ....
+My name is Qi "Frederick" Yu, I am a master candidate of Biostatistics at Emory University.
 
 
 <figure>
